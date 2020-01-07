@@ -5,4 +5,5 @@ An "awesome" list of resources for Samsung DeX
 * [Getting Started Guide](https://insights.samsung.com/2019/09/10/the-beginners-guide-to-samsung-dex-3/)
 
 #### How to...
-* Resize keyboard on Samsung DeX
+* Resize keyboard on DeX
+* Run VS Code on DeX
