@@ -6,4 +6,4 @@ An "awesome" list of resources for Samsung DeX
 
 #### How to...
 * Resize keyboard on DeX
-* Run VS Code on DeX
+* Use VS Code on DeX
