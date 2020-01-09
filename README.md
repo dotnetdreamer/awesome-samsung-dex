@@ -7,6 +7,7 @@ An "awesome" list of resources for Samsung DeX
 #### LapDocks (Turn your Smartphone into Laptop)
 * [Amazon](https://www.amazon.com/HP-V8H07UT-Elite-Lap-Dock/dp/B01M14FYYU)
 * [NexDock](http://nexdock.com/)
+* [PhoneBook (KickStarter)](https://www.kickstarter.com/projects/1031149173/phonebook-turn-any-smartphone-into-a-laptop-computer)
 
 #### How to...
 * Resize keyboard
