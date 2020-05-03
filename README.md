@@ -15,4 +15,4 @@ An "awesome" list of resources for Samsung DeX
 
 ### Linux on DeX
 * [UserLand (PlayStore)](https://play.google.com/store/apps/details?id=tech.ula&hl=en)
-* [Andronix (Website)] (https://andronix.app/)
+* [Andronix (Website)](https://andronix.app/)
