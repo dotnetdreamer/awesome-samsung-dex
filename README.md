@@ -11,7 +11,7 @@ An "awesome" list of resources for Samsung DeX
 
 #### How to...
 * Resize keyboard
-* Use VS Code
+* [Use VS Code](https://dev.to/dotnetdreamer/using-android-phone-as-a-development-machine-3f39)
 
 ### Linux on DeX
 * [UserLand (PlayStore)](https://play.google.com/store/apps/details?id=tech.ula&hl=en)
