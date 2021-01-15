@@ -8,6 +8,7 @@ An "awesome" list of resources for Samsung DeX
 * [HP Elite X3 LapDock (Amazon)](https://www.amazon.com/HP-V8H07UT-Elite-Lap-Dock/dp/B01M14FYYU)
 * [NexDock](http://nexdock.com/)
 * [PhoneBook (KickStarter)](https://www.kickstarter.com/projects/1031149173/phonebook-turn-any-smartphone-into-a-laptop-computer)
+* [360 LapDock (AliExpress)](https://www.aliexpress.com/item/1005001404908587.html)
 
 #### How to...
 * Resize keyboard
