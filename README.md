@@ -12,6 +12,7 @@
 * [NexDock](http://nexdock.com/)
 * [PhoneBook (KickStarter)](https://www.kickstarter.com/projects/1031149173/phonebook-turn-any-smartphone-into-a-laptop-computer)
 * [360 LapDock (AliExpress)](https://www.aliexpress.com/item/1005001404908587.html)
+* [ALLDOCUBE Expand X (AliExpress)](https://www.aliexpress.com/item/1005001874711564.html)
 
 #### How to...
 * Resize keyboard
