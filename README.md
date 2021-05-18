@@ -15,8 +15,8 @@
 * [ALLDOCUBE Expand X (AliExpress)](https://www.aliexpress.com/item/1005001874711564.html)
 
 #### How to...
-* Resize keyboard
 * [Use VS Code](https://dev.to/dotnetdreamer/using-android-phone-as-a-development-machine-3f39)
+* [Run Visual Studio Code in Termux](https://dev.to/codeledger/how-to-get-visual-studio-code-to-run-in-termux-on-android-405j)
 
 ### Linux on DeX
 * [UserLand (PlayStore)](https://play.google.com/store/apps/details?id=tech.ula&hl=en)
