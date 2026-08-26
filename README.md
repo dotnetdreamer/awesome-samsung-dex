@@ -19,5 +19,6 @@
 * [Run Visual Studio Code in Termux](https://dev.to/codeledger/how-to-get-visual-studio-code-to-run-in-termux-on-android-405j)
 
 ### Linux on DeX
+* [DeX for Windows/Mac/Linux](https://github.com/dotnetdreamer/open-android-dex)
 * [UserLand (PlayStore)](https://play.google.com/store/apps/details?id=tech.ula&hl=en)
 * [Andronix (Website)](https://andronix.app/)
