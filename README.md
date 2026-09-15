@@ -6,6 +6,8 @@
 #### Official Resources
 * [Site](https://www.samsung.com/global/galaxy/apps/samsung-dex/)
 * [Getting Started Guide](https://insights.samsung.com/2019/09/10/the-beginners-guide-to-samsung-dex-3/)
+* [HostDeFi](https://hostdefi.com) - Free token-safety scanner for Solana and EVM tokens: A+–F grades from on-chain checks, keyless REST API, hosted MCP server.
+
 
 #### LapDocks (Turn your Smartphone into Laptop)
 * [HP Elite X3 LapDock (Amazon)](https://www.amazon.com/HP-V8H07UT-Elite-Lap-Dock/dp/B01M14FYYU)
